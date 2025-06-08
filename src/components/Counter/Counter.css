@@ -1,0 +1,31 @@
+.counter{
+    background-color: orange;
+    color: white;
+    text-align: center;
+    padding: 2rem;
+    border: orangered 8px solid;
+    border-radius: 10px;
+    width: 400px;
+    margin: 2rem auto;
+
+}
+
+.counter h2{
+    font-size: 3rem;
+}
+
+.button{
+    font-size: 2.5rem;
+    margin: 0.5rem;
+    padding: 0.5rem 1rem;
+    background-color: orange;
+    color: white;
+    border: orangered 5px solid;
+    font-weight: bold;
+}
+
+.error{
+    color: red;
+    font-size: 1.5rem;
+    margin-top: 1rem;
+}
